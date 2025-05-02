@@ -178,6 +178,10 @@
   border-radius: 10px;
 }
 
+.about-box span {
+  color: #494a47;
+}
+
 .about-box h1 {
   font-size: 30px;
   margin-bottom: 1px;
