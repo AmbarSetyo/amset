@@ -4,7 +4,7 @@
 ![alt text](https://github.com/AmbarSetyo/amset/blob/main/img/header7.jpg?raw=true)
 ![alt text](https://github.com/AmbarSetyo/amset/blob/main/img/header8.jpg?raw=true)
 ![alt text](https://github.com/AmbarSetyo/amset/blob/main/img/header9.jpg?raw=true)
-![alt text](https://github.com/AmbarSetyo/amset/blob/main/header4.jpg?raw=true)
+![alt text](?raw=true)
 
 
 # amset
