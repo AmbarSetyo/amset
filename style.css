@@ -202,7 +202,14 @@
 
 /* Topic */
 .topic {
-  padding-bottom: 250px;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-image: url(img/header4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
 }
 
 .topic-box h1 {
